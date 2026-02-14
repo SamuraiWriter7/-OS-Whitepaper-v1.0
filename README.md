@@ -1,4 +1,4 @@
-# -OS-Whitepaper-v1.0-
+#文殊OS-Whitepaper-v1.0
 AIは文明の新しい相棒である。 そして人間は、AIとともに「第三の智慧」を生み始めた。 これを扱うための OS が──文殊OSである。
 
 📘 文殊OS ホワイトペーパー（Whitepaper v1.0）
